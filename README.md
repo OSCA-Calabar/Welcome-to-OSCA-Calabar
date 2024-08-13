@@ -21,6 +21,14 @@ We value your feedback to help us improve and tailor our activities to your inte
 Don't forget to join our socials for the latest updates and community interactions:
 
 <!-- **[Linktree Link]** -->
-**[X](https://x.com/osca_calabar)**
+<!-- **[X](https://x.com/osca_calabar)** -->
+<p align="left">
+  <a href="https://x.com/osca_calabar">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+ <a href="https://web.facebook.com/OscaCalabar">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+</p>
 
 Thank you, and we look forward to your active participation!
